@@ -9,7 +9,7 @@ Emily Robinson, Susan VanderPlas, Reka Howard
 # Experiment Name
 
 + Conducted: April 2021 - Present
-+ Platform: [Shiny App](https://shiny.srvanderplas.com/eye-fitting/ )
++ Platform: [Shiny App](https://emily-robinson.shinyapps.io/you-draw-it-validation-applet/)
 + Recruitment Method: ISU Graphics Group, Twitter, Reddit, Direct Email, etc.
 + Trend Types: Simulated Linear; Simulated Exponential (linear/log scale)
 
