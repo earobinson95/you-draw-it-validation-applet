@@ -1,0 +1,14 @@
+name: you-draw-it-validation-applet
+title: you-draw-it-validation-applet
+username:
+account: emily-robinson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5534936
+bundleId: 5519423
+url: https://emily-robinson.shinyapps.io/you-draw-it-validation-applet/
+when: 1643398839.2375
+lastSyncTime: 1643398839.2375
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data-manifest.md|README.md|validation/data-generation-validation.html|validation/data-generation-validation.Rmd|analyses
