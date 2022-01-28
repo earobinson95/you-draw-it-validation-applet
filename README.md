@@ -1,4 +1,4 @@
-# Pilot: You Draw It
+# 'You Draw It' Validation Applet
 ## [Eye Fitting Straight Lines in the Modern Era](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era)
 ## [Peception of Logrithmic Scales](https://github.com/srvanderplas/Perception-of-Log-Scales)
 
