@@ -1,6 +1,6 @@
 # 'You Draw It' Validation Applet
-## [Eye Fitting Straight Lines in the Modern Era](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era)
-## [Peception of Logrithmic Scales](https://github.com/srvanderplas/Perception-of-Log-Scales)
+### [Eye Fitting Straight Lines in the Modern Era](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era)
+### [Peception of Logrithmic Scales](https://github.com/srvanderplas/Perception-of-Log-Scales/tree/master/you-draw-it-development/you-draw-it-pilot-app)
 
 ### Shiny front-end/testing framework for 'You Draw It' with `r2d3` package
 
@@ -85,7 +85,7 @@ Emily Robinson, Susan VanderPlas, Reka Howard
     + y_range = range(y-points)*c(0.5, 2)
 
 # Plot Generation
-+ See `www/js/shinydrawr-d3v5.js` for D3.js source code.
++ See [`www/js/shinydrawr-d3v5.js`](https://github.com/earobinson95/you-draw-it-validation-applet/blob/main/www/js/shinydrawr-d3v5.js) for D3.js source code.
 
 # Experimental Design
 
@@ -101,8 +101,6 @@ Emily Robinson, Susan VanderPlas, Reka Howard
     + Beta: 0.1 (sd. 0.09); 0.23 (0.25)
     + Points End: 0.5; 0.75
     + Scale: Linear; Log
-    
-+ Visit [You Draw It Development - parameter selection](https://emily-robinson.shinyapps.io/you-draw-it-parameter-selection/) for examples.
 
 ## Experimental Design
 + See `code/randomization.R`.
@@ -112,13 +110,20 @@ Emily Robinson, Susan VanderPlas, Reka Howard
 
 # Data Files
 + Data file can be found in `you_draw_it_data.db`.
-+ Field descriptions can be found in [data-manifest.md](https://github.com/srvanderplas/Perception-of-Log-Scales/blob/master/you-draw-it-development/you-draw-it-pilot-app/data-manifest.md).
++ Field descriptions can be found in [data-manifest.md](https://github.com/earobinson95/you-draw-it-validation-applet/blob/main/data-manifest.md).
 
 # Results
-+ [Github Repo](https://github.com/srvanderplas/Perception-of-Log-Scales/tree/master/you-draw-it-development/you-draw-it-pilot-app)
 + Presentations: 
     + [You Draw It with r2d3 - ISU Graphics Group 04-08-2021](https://srvanderplas.github.io/Perception-of-Log-Scales/presentations/you-draw-it-with-r2d3-graphicsgroup04082021/index.html#1)
-+ Manuscripts: 
+    + [Eye Fitting Straight Lines in the Modern - Midwest Women in Science Conference Era](https://earobinson95.github.io/presentations/Conferences/2021-MidwestWISC/index.html#1)
+    + [Human perception of Statistical Charts: An Introduction to Graphical Testing - UNL Nerd Nite @ Saro Cider Methods](https://earobinson95.github.io/presentations/Other/2021NerdNite-Human-Perception-of-Statistical-Charts/index.html#1)
+    + [Can 'You Draw It'? Eye Fitting Straight Lines in the Modern - ISU Graphics Group Era](https://earobinson95.github.io/presentations/ISU-Graphics-Group/2021-10-14-eyefitting-straight-lines-in-the-modern-era/index.html#1)
+    + [Can 'You Draw It' - Job Talk](https://earobinson95.github.io/presentations/Job-Talks/2021-assistant-professor/index.html#1)
++ Papers: 
+    + [Eye Fitting Straight Lines in the Modern Era](https://earobinson95.github.io/Eye-Fitting-Straight-Lines-in-the-Modern-Era/Eye-Fitting-Straight-Lines-in-the-Modern-Era.pdf)
+    + [UNL Dissertation](https://github.com/earobinson95/EmilyARobinson-UNL-dissertation/blob/main/_book/thesis.pdf)
+    + [JSM 2022 Student Paper Competition](https://srvanderplas.github.io/Perception-of-Log-Scales/manuscripts/jsm-2022-student-paper-competition/2022-jsm-student-paper-competition.pdf)
+    + [SDSS 2022 Extended Abstract](https://github.com/srvanderplas/Perception-of-Log-Scales/blob/master/manuscripts/sdss-2022-extended-abstract/2022-sdss-extended-abstract.pdf)
 + Preliminary Analyses:
     + ISU Graphics Group (04/08/2021): [Exponential Prediction](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-exponential-prediction-graphics-group-04.08.2021.html), [Eye Fitting Straight Lines](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-eyefitting-straight-lines-graphics-group-04.08.2021.html)
     + Twitter/Reddit/Direct Email Pilot Study (05/03/2021): [Exponential Prediction](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-exponential-prediction-pilot.html), [Eye Fitting Straight Lines](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-eyefitting-straight-lines-pilot.html)
