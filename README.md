@@ -123,7 +123,7 @@ Emily Robinson, Susan VanderPlas, Reka Howard
     + [Eye Fitting Straight Lines in the Modern Era](https://earobinson95.github.io/Eye-Fitting-Straight-Lines-in-the-Modern-Era/Eye-Fitting-Straight-Lines-in-the-Modern-Era.pdf)
     + [UNL Dissertation](https://github.com/earobinson95/EmilyARobinson-UNL-dissertation/blob/main/_book/thesis.pdf)
     + [JSM 2022 Student Paper Competition](https://srvanderplas.github.io/Perception-of-Log-Scales/manuscripts/jsm-2022-student-paper-competition/2022-jsm-student-paper-competition.pdf)
-    + [SDSS 2022 Extended Abstract](https://github.com/srvanderplas/Perception-of-Log-Scales/blob/master/manuscripts/sdss-2022-extended-abstract/2022-sdss-extended-abstract.pdf)
+    + [SDSS 2022 Extended Abstract](https://srvanderplas.github.io/Perception-of-Log-Scales/manuscripts/sdss-2022-extended-abstract/2022-sdss-extended-abstract.pdf)
 + Preliminary Analyses:
     + ISU Graphics Group (04/08/2021): [Exponential Prediction](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-exponential-prediction-graphics-group-04.08.2021.html), [Eye Fitting Straight Lines](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-eyefitting-straight-lines-graphics-group-04.08.2021.html)
     + Twitter/Reddit/Direct Email Pilot Study (05/03/2021): [Exponential Prediction](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-exponential-prediction-pilot.html), [Eye Fitting Straight Lines](https://earobinson95.github.io/you-draw-it-validation-applet/analyses/you-draw-it-eyefitting-straight-lines-pilot.html)
